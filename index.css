@@ -78,7 +78,6 @@ pre {
 .box-container img {
     float: left;
     width: 300px; 
-    margin-right: 20px;
     height: auto;
 }
 .number-list {
@@ -86,4 +85,7 @@ pre {
     font-weight: 500;
     line-height: 140%;
     letter-spacing: -0.3px;
+}
+.handle-image {
+    margin-right: 20px;
 }
